@@ -1,0 +1,8 @@
+C:\Users\Fenrir\Desktop\C#\Chap4Tp6\Chap4Tp6\obj\Debug\Chap4Tp6.csprojResolveAssemblyReference.cache
+C:\Users\Fenrir\Desktop\C#\Chap4Tp6\Chap4Tp6\bin\Debug\Chap4Tp6.exe.config
+C:\Users\Fenrir\Desktop\C#\Chap4Tp6\Chap4Tp6\bin\Debug\Chap4Tp6.exe
+C:\Users\Fenrir\Desktop\C#\Chap4Tp6\Chap4Tp6\bin\Debug\Chap4Tp6.pdb
+C:\Users\Fenrir\Desktop\C#\Chap4Tp6\Chap4Tp6\bin\Debug\Chap4Cours1ClassExo2.dll
+C:\Users\Fenrir\Desktop\C#\Chap4Tp6\Chap4Tp6\bin\Debug\Chap4Cours1ClassExo2.pdb
+C:\Users\Fenrir\Desktop\C#\Chap4Tp6\Chap4Tp6\obj\Debug\Chap4Tp6.exe
+C:\Users\Fenrir\Desktop\C#\Chap4Tp6\Chap4Tp6\obj\Debug\Chap4Tp6.pdb
